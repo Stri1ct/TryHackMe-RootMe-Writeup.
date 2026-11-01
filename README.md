@@ -61,7 +61,7 @@ Since Python had SUID privileges, I could use it to spawn a new shell that would
 
 <img width="529" height="90" alt="روت" src="https://github.com/user-attachments/assets/e9e6ddbe-9d4d-4632-947b-1a73fc264c4b" />
 
-RRunning `whoami` confirmed I was now root. Finally, I navigated to the root directory and grabbed the final flag:
+Running `whoami` confirmed I was now root. Finally, I navigated to the root directory and grabbed the final flag:
 
 cat /root/root.txt
 THM{*******}
