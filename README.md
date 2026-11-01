@@ -1,0 +1,1 @@
+# TryHackMe-RootMe-Writeup.
